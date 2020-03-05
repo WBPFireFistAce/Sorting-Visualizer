@@ -1,3 +1,4 @@
+Live demo: https://sorting-algo-visualizer-js.herokuapp.com/
 I started working on this project to help me, and other students who need the help to better understand sorting algorithms. I'm starting with Merge Sort, but the framework for adding more sorting algorithms in the future is already laid out.
 Here's a demo:
 
